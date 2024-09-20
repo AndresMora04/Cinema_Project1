@@ -37,7 +37,7 @@ int main()
             cout << "Por favor, seleccione una opcion:";
             cin >> userChoice2;
             if (userChoice2 == 1) {
-                cout << "This was make for Jose Andres Mora Mora ";
+                cout << "Creador: Jose Andres Mora Mora" << endl;
             }
 
             else if (userChoice2 == 2) {
